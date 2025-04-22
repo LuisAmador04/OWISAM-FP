@@ -1,0 +1,122 @@
+{
+  "B0:EC:DD:13:27:30": {
+    "ssid": "ASK4 WiFi",
+    "channel": 1,
+    "encryption": "Abierta",
+    "rssi": -68
+  },
+  "E8:AD:A6:1A:34:A6": {
+    "ssid": "vodafone34A0",
+    "channel": 1,
+    "encryption": "WPA2/WPA3",
+    "rssi": -70
+  },
+  "B0:EC:DD:13:27:33": {
+    "ssid": "Nodis Sevilla Admin",
+    "channel": 1,
+    "encryption": "WPA2/WPA3",
+    "rssi": -69
+  },
+  "B0:EC:DD:13:27:31": {
+    "ssid": "ASK4 WiFi (802.1x)",
+    "channel": 1,
+    "encryption": "WPA2/WPA3",
+    "rssi": -69
+  },
+  "B0:EC:DD:13:27:32": {
+    "ssid": "Nodis Sevilla Dom",
+    "channel": 1,
+    "encryption": "WPA2/WPA3",
+    "rssi": -70
+  },
+  "C8:99:B2:79:B8:A2": {
+    "ssid": "Livebox6-B8A3",
+    "channel": 1,
+    "encryption": "WPA2/WPA3",
+    "rssi": -71
+  },
+  "C0:B1:01:0F:33:3A": {
+    "ssid": "DIGIFIBRA-F3eC",
+    "channel": 1,
+    "encryption": "WPA2/WPA3",
+    "rssi": -72
+  },
+  "84:AA:9C:F3:E5:40": {
+    "ssid": "MOVISTAR_E53F",
+    "channel": 11,
+    "encryption": "WPA2/WPA3",
+    "rssi": -72
+  },
+  "B0:EC:DD:14:C2:53": {
+    "ssid": "Nodis Sevilla Admin",
+    "channel": 1,
+    "encryption": "WPA2/WPA3",
+    "rssi": -71
+  },
+  "B0:EC:DD:13:A0:90": {
+    "ssid": "ASK4 WiFi",
+    "channel": 1,
+    "encryption": "Abierta",
+    "rssi": -51
+  },
+  "B0:EC:DD:13:A0:91": {
+    "ssid": "ASK4 WiFi (802.1x)",
+    "channel": 1,
+    "encryption": "WPA2/WPA3",
+    "rssi": -51
+  },
+  "B0:EC:DD:13:A0:92": {
+    "ssid": "Nodis Sevilla Dom",
+    "channel": 1,
+    "encryption": "WPA2/WPA3",
+    "rssi": -51
+  },
+  "B0:EC:DD:13:A0:93": {
+    "ssid": "Nodis Sevilla Admin",
+    "channel": 1,
+    "encryption": "WPA2/WPA3",
+    "rssi": -51
+  },
+  "48:00:33:C7:80:01": {
+    "ssid": "Lowi7FFC",
+    "channel": 1,
+    "encryption": "WPA2/WPA3",
+    "rssi": -71
+  },
+  "44:48:B9:2D:CE:50": {
+    "ssid": "MOVISTAR_CE50",
+    "channel": 1,
+    "encryption": "WPA2/WPA3",
+    "rssi": -72
+  },
+  "B0:EC:DD:14:C2:52": {
+    "ssid": "Nodis Sevilla Dom",
+    "channel": 1,
+    "encryption": "WPA2/WPA3",
+    "rssi": -70
+  },
+  "B0:EC:DD:14:C2:50": {
+    "ssid": "ASK4 WiFi",
+    "channel": 1,
+    "encryption": "Abierta",
+    "rssi": -70
+  },
+  "B0:EC:DD:14:C2:51": {
+    "ssid": "ASK4 WiFi (802.1x)",
+    "channel": 1,
+    "encryption": "WPA2/WPA3",
+    "rssi": -71
+  },
+  "84:1E:A3:7E:5F:5E": {
+    "ssid": "sagemcom5F58",
+    "channel": 1,
+    "encryption": "WPA2/WPA3",
+    "rssi": -73
+  },
+  "8C:C5:B4:E0:E6:86": {
+    "ssid": "vodafoneE680",
+    "channel": 1,
+    "encryption": "Abierta",
+    "rssi": -72
+  }
+}
